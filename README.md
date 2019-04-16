@@ -5,6 +5,7 @@ A Distributed File System developed using system apis. The file system is comple
 
 **Setting up the files on your Desktop:**  
 **Note:** _Please read the **Help Document** for a pictorial help and explanation, for setting up the files._  
+          _Also, read the architecture details for a better understanding of the two processes (Client and Server) and how they work._  
 
 1. Create a text file ‘server’ on your Desktop and save the Server Code in that file.  
 2. Create a text file ‘client’ on your Desktop and save the Client Code in that file.  
