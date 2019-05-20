@@ -10,7 +10,7 @@ A Distributed File System developed using system apis. The file system is comple
 1. Create a text file ‘server’ on your Desktop and save the Server Code in that file.  
 2. Create a text file ‘client’ on your Desktop and save the Client Code in that file.  
 Make these files on all three computers that will be used as servers.  
-3. Create two FOLDERS ‘MyWorkspace’ and ‘ClientFolder’ on your dekstop.  
+3. Create two FOLDERS ‘MyWorkspace’ and ‘ClientFolder’ on your desktop.  
 4. Create an empty file as ‘test 1’ in ‘MyWorkspace’ Folder. The servers exchange there lists when they boot up and there needs to be at least one file in the local folder.  
 5. Open the client file. And Enter the IP addresses of the servers, in the serverIps list.  
 6. Also change the directory path of the ‘ClientFolder’ Folder that you created in step 3 in the client file.  
